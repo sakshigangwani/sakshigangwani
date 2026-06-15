@@ -4,7 +4,7 @@
 
 ## About me
 
-- 🧬 At USC Mann, I build LLM-powered systems that automate scientific literature mining and structured data extraction for pharmaceutical R&D — spanning antibody, siRNA, and lipid-nanoparticle research.
+- 🧬 At USC Mann, I build LLM-powered systems that automate scientific literature mining and structured data extraction for pharmaceutical R&D - spanning antibody, siRNA, and lipid-nanoparticle research.
 - 🚀 I love shipping the whole thing: real-time collaborative editors (Yjs + ProseMirror), multi-agent RAG systems, and citation-grounded MCP servers.
 - 🎨 Away from the keyboard, you'll find me drawing or buried in a good book.
 - 📫 Reach me at **sgangwan@usc.edu**
@@ -71,6 +71,4 @@ I occasionally write about what I'm learning — the messy middle, not just the 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sgangwan@usc.edu)
 
 ## 📊 GitHub stats
-
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshigangwani&show_icons=true&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshigangwani&layout=compact&hide_border=true)
