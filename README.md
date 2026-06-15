@@ -1,6 +1,6 @@
 # Hey, this is Sakshi 👋
 
-🔬 I'm an **AI Research Engineer & Full-Stack Developer** — AI Research Engineer at the **USC Alfred E. Mann School of Pharmacy** (Dogra Lab) and a CS Master's student at **USC Viterbi**. I build intelligent systems end-to-end: from ML models and retrieval pipelines to the full-stack products around them. And yes, one of those projects even got a [published patent](#-a-published-patent-with-my-name-on-it) with my name on it.
+🔬 I'm an **AI Research Engineer & Full-Stack Developer** - AI Research Engineer at the **USC Alfred E. Mann School of Pharmacy** (Dogra Lab) and a CS Master's student at **USC Viterbi**. I build intelligent systems end-to-end: from ML models and retrieval pipelines to the full-stack products around them. And yes, one of those projects even got a [published patent](#-a-published-patent-with-my-name-on-it) with my name on it.
 
 ## About me
 
